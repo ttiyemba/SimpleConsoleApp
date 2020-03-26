@@ -1,0 +1,10 @@
+/Users/tap/Desktop/c#Tutorials/StructandEnums/StructandEnums/obj/Debug/netcoreapp3.1/StructandEnums.csprojAssemblyReference.cache
+/Users/tap/Desktop/c#Tutorials/StructandEnums/StructandEnums/obj/Debug/netcoreapp3.1/StructandEnums.AssemblyInfoInputs.cache
+/Users/tap/Desktop/c#Tutorials/StructandEnums/StructandEnums/obj/Debug/netcoreapp3.1/StructandEnums.AssemblyInfo.cs
+/Users/tap/Desktop/c#Tutorials/StructandEnums/StructandEnums/bin/Debug/netcoreapp3.1/StructandEnums.deps.json
+/Users/tap/Desktop/c#Tutorials/StructandEnums/StructandEnums/bin/Debug/netcoreapp3.1/StructandEnums.runtimeconfig.json
+/Users/tap/Desktop/c#Tutorials/StructandEnums/StructandEnums/bin/Debug/netcoreapp3.1/StructandEnums.runtimeconfig.dev.json
+/Users/tap/Desktop/c#Tutorials/StructandEnums/StructandEnums/bin/Debug/netcoreapp3.1/StructandEnums.dll
+/Users/tap/Desktop/c#Tutorials/StructandEnums/StructandEnums/bin/Debug/netcoreapp3.1/StructandEnums.pdb
+/Users/tap/Desktop/c#Tutorials/StructandEnums/StructandEnums/obj/Debug/netcoreapp3.1/StructandEnums.dll
+/Users/tap/Desktop/c#Tutorials/StructandEnums/StructandEnums/obj/Debug/netcoreapp3.1/StructandEnums.pdb
